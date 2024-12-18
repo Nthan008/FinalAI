@@ -1,0 +1,1020 @@
+D/InputEventConsistencyVerifier(  554): KeyEvent: ACTION_UP but key was not down.
+D/InputEventConsistencyVerifier(  554):   in com.android.internal.policy.impl.PhoneWindow$DecorView@b4151958
+D/InputEventConsistencyVerifier(  554):   0: sent at 74550000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_DPAD_RIGHT, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=74550, downTime=74550, deviceId=-1, source=0x101 }
+W/dalvikvm(  975): DroidBox: { "FdAccess": { "path": "2f6465762f696e7075742f6576656e7430", "id": "1176830594" } }
+W/DroidBox(  975): DroidBox: { "FileRW": { "operation": "write", "data": "efbfbd060000efbfbdefbfbd0c000500000000000000", "id": "1176830594" } }
+I/ActivityManager(  221): START {act=android.search.action.GLOBAL_SEARCH flg=0x10000000 cmp=com.android.quicksearchbox/.SearchActivity bnds=[5,43][475,103] (has extras) u=0} from pid 554
+I/qtaguid (  221): Failed write_ctrl(s 1 10050) res=-1 errno=1
+W/NetworkManagementSocketTagger(  221): setKernelCountSet(10050, 1) failed with errno -1
+I/ARMAssembler(   58): generated scanline__00000077:03515104_00009001_00000000 [131 ipp] (153 ins) at [0xb5c3e710:0xb5c3e974] in 0 ns
+E/Trace   (  993): error opening trace file: No such file or directory (2)
+W/DroidBox(  993): DroidBox: { "DexClassLoader": { "path": "/data/app/com.gu.activity-1.apk" } }
+I/dalvikvm-heap(  554): Grow heap (frag case) to 15.112MB for 1463056-byte allocation
+D/InputEventConsistencyVerifier(  554): KeyEvent: ACTION_UP but key was not down.
+D/InputEventConsistencyVerifier(  554):   in com.android.launcher2.Cling@b4196088
+D/InputEventConsistencyVerifier(  554):   0: sent at 74766000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_DPAD_DOWN, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=74766, downTime=74766, deviceId=-1, source=0x101 }
+I/Choreographer(  554): Skipped 190 frames!  The application may be doing too much work on its main thread.
+W/InputMethodManagerService(  221): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@b4124b48 (uid=10019 pid=554)
+E/WVMExtractor(   61): Failed to open libwvm.so
+I/dalvikvm-heap(  993): Grow heap (frag case) to 10.205MB for 1618000-byte allocation
+W/dalvikvm(  943): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e616e64726f69642e6d7573696366782f7368617265645f70726566732f6d7573696366782e786d6c", "id": "4849327" } }
+W/DroidBox(  943): DroidBox: { "FileRW": { "operation": "write", "data": "3c3f786d6c2076657273696f6e3d27312e302720656e636f64696e673d277574662d3827207374616e64616c6f6e653d2779657327203f3e0a3c6d61703e0a3c737472696e67206e616d653d2264656661756c7470616e656c7061636b616765223e636f", "id": "4849327" } }
+I/dalvikvm-heap(  993): Grow heap (frag case) to 13.674MB for 3643024-byte allocation
+I/ActivityManager(  221): No longer want com.android.provision (pid 520): hidden #16
+I/Choreographer(  554): Skipped 49 frames!  The application may be doing too much work on its main thread.
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/DroidBox(  993): DroidBox: { "ServiceStart": { "name": "com.gu.MainService" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/System.err(  993): java.security.NoSuchProviderException: SUN
+W/System.err(  993): 	at java.security.SecureRandom.getInstance(SecureRandom.java:189)
+W/System.err(  993): 	at com.gu.util.Common.<clinit>(Common.java:234)
+W/System.err(  993): 	at com.gu.MainService.onCreate(MainService.java:387)
+W/System.err(  993): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2363)
+W/System.err(  993): 	at android.app.ActivityThread.access$1600(ActivityThread.java:130)
+W/System.err(  993): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1277)
+W/System.err(  993): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err(  993): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err(  993): 	at android.app.ActivityThread.main(ActivityThread.java:4745)
+W/System.err(  993): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err(  993): 	at java.lang.reflect.Method.invoke(Method.java:511)
+W/System.err(  993): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+W/System.err(  993): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+W/System.err(  993): 	at dalvik.system.NativeStart.main(Native Method)
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "368715032" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "efbfbdefbfbd", "id": "368715032" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1922392403" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0005", "id": "1922392403" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "658560840" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "73", "id": "658560840" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1224113563" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "72", "id": "1224113563" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1014231977" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0016636f6d2e67752e546b63416e64726f69645374617465", "id": "1014231977" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1999453303" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000000000001", "id": "1999453303" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "111277855" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "02", "id": "111277855" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2051392794" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0016", "id": "2051392794" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "172597773" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "172597773" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "714168118" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0017616d6269656e745265636f7264696e67436f6d6d616e64", "id": "714168118" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "799649658" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "799649658" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1096931434" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000e617564696f5265636f7264696e67", "id": "1096931434" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "717982061" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4a", "id": "717982061" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1985923492" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0014637269746963616c426174746572794c6576656c", "id": "1985923492" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2073809182" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4a", "id": "2073809182" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "540027018" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0011637269746963616c467265655370616365", "id": "540027018" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2145150881" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4a", "id": "2145150881" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "35950097" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000e6461696c79446174614c696d6974", "id": "35950097" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2126136287" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4a", "id": "2126136287" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1274851038" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000e6461696c79446174615573616765", "id": "1274851038" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1197348177" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "1197348177" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "515565323" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00066b696c6c6564", "id": "515565323" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "293317698" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "293317698" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1780910204" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00116c6f636174696f6e5265636f7264696e67", "id": "1780910204" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "792171798" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "792171798" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1726901638" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000a6d6f62696c6544617461", "id": "1726901638" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1201668282" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "1201668282" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1510659270" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00096f6e43686172676572", "id": "1510659270" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1344491229" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4a", "id": "1344491229" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1597940067" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00127265636f7264696e67537461727454696d65", "id": "1597940067" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1467549162" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "1467549162" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1161693420" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000c7361766550617373776f7264", "id": "1161693420" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1217170969" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4a", "id": "1217170969" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "305177996" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "001173746f705265636f7264696e6754696d65", "id": "305177996" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "505634488" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "505634488" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1868094319" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000973757370656e646564", "id": "1868094319" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1822987402" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4a", "id": "1822987402" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1718199345" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000e746f74616c446174615573616765", "id": "1718199345" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2100612908" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "2100612908" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "609939739" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000e766964656f5265636f7264696e67", "id": "609939739" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1967877358" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "5a", "id": "1967877358" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1914147920" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "001777616974466f72416d6269656e745265636f7264696e67", "id": "1914147920" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1267333675" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4c", "id": "1267333675" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1306935544" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0008636f6e6669674964", "id": "1306935544" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "566437321" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "7400124c6a6176612f6c616e672f537472696e673b", "id": "566437321" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1378873541" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4c", "id": "1378873541" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "353439323" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000c636f6e666967537472696e67", "id": "353439323" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "67480067" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "71", "id": "67480067" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "505367474" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "007e0001", "id": "505367474" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1547013994" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4c", "id": "1547013994" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "86485097" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000464617465", "id": "86485097" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "896615754" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "71", "id": "896615754" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "335017486" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "007e0001", "id": "335017486" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "78766110" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4c", "id": "78766110" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1128142621" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "001064617974696d655265636f7264696e67", "id": "1128142621" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "662067619" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "7400134c6a6176612f7574696c2f486173685365743b", "id": "662067619" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "335365797" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4c", "id": "335365797" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "996063136" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0007757365724d6170", "id": "996063136" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1715820665" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "7400134c6a6176612f7574696c2f486173684d61703b", "id": "1715820665" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "245708363" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "245708363" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1939143050" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "1939143050" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "990073867" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "990073867" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "144725980" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "144725980" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "934382248" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000000000000000a", "id": "934382248" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1415484462" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000006400000", "id": "1415484462" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2005361699" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000006400000", "id": "2005361699" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1581311444" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000000000000", "id": "1581311444" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1342243087" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "1342243087" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1300686055" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "1300686055" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2139379210" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "2139379210" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "612399517" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "612399517" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "376039444" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000000000000", "id": "376039444" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1085072359" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "1085072359" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1824355609" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000000000000", "id": "1824355609" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1589408314" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "1589408314" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1380928787" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000000000000", "id": "1380928787" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "23316153" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "23316153" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1834905658" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00", "id": "1834905658" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "704616492" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "704616492" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "449963557" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "449963557" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1685887754" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "1685887754" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "794712274" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "73", "id": "794712274" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "758601556" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "72", "id": "758601556" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1606976579" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00116a6176612e7574696c2e48617368536574", "id": "1606976579" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "626116611" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "efbfbd44efbfbdefbfbdefbfbdefbfbdefbfbd34", "id": "626116611" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1785924284" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "03", "id": "1785924284" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "974314351" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000", "id": "974314351" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1760332222" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "1760332222" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1248714052" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "1248714052" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "889965627" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "77", "id": "889965627" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1786381214" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0c", "id": "1786381214" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1428414549" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000000023f40000000000000", "id": "1428414549" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "837430755" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "837430755" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1376528773" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "73", "id": "1376528773" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "362933110" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "72", "id": "362933110" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1766599317" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00116a6176612e7574696c2e486173684d6170", "id": "1766599317" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1636848509" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0507efbfbdefbfbdefbfbd1660efbfbd", "id": "1636848509" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2086844705" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "03", "id": "2086844705" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1353529815" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0001", "id": "1353529815" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1727057165" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "46", "id": "1727057165" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "886996755" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000a6c6f6164466163746f72", "id": "886996755" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "510112041" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "510112041" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1278133466" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "1278133466" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1802316755" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "3f400000", "id": "1802316755" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1874346909" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "77", "id": "1874346909" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2002117016" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "08", "id": "2002117016" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "858733111" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000200000000", "id": "858733111" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1998200152" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "1998200152" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "736373949" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "efbfbdefbfbd", "id": "736373949" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1718906888" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0005", "id": "1718906888" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "927143006" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "73", "id": "927143006" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1643052303" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "72", "id": "1643052303" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1552753981" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0015636f6d2e67752e55736572436f6e74726f6c6c6572", "id": "1552753981" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1352657850" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000000000001", "id": "1352657850" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1447301323" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "02", "id": "1447301323" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1788206418" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0002", "id": "1788206418" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1354904395" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4c", "id": "1354904395" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1503116409" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0008757365724c697374", "id": "1503116409" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "529069515" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "7400104c6a6176612f7574696c2f4c6973743b", "id": "529069515" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1102767390" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "4c", "id": "1102767390" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1118235262" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0007757365724d6170", "id": "1118235262" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1734875127" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "7400134c6a6176612f7574696c2f486173684d61703b", "id": "1734875127" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "269281962" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "269281962" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1823887375" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "1823887375" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "373646290" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "73", "id": "373646290" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1507164471" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "72", "id": "1507164471" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1329392579" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00136a6176612e7574696c2e41727261794c697374", "id": "1329392579" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "673978189" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78efbfbdefbfbd1defbfbdefbfbd61efbfbd", "id": "673978189" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1140226515" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "03", "id": "1140226515" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1121662746" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0001", "id": "1121662746" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1223187226" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "49", "id": "1223187226" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1881484562" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000473697a65", "id": "1881484562" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "2113824788" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "2113824788" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "980746891" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "980746891" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "57422234" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00000000", "id": "57422234" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "770929881" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "77", "id": "770929881" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "2046628922" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "04", "id": "2046628922" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "725951662" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00000000", "id": "725951662" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1252557317" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "1252557317" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1486033210" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "73", "id": "1486033210" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1142457867" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "72", "id": "1142457867" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "554137842" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "00116a6176612e7574696c2e486173684d6170", "id": "554137842" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "414722453" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0507efbfbdefbfbdefbfbd1660efbfbd", "id": "414722453" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "2077692613" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "03", "id": "2077692613" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1577790765" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0001", "id": "1577790765" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "822605897" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "46", "id": "822605897" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "2017646967" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "000a6c6f6164466163746f72", "id": "2017646967" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "790727993" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "790727993" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1482166511" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "70", "id": "1482166511" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "399670131" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "3f400000", "id": "399670131" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1099621012" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "77", "id": "1099621012" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "244104826" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "08", "id": "244104826" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "106726329" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "0000000200000000", "id": "106726329" } }
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1774698905" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "write", "data": "78", "id": "1774698905" } }
+D/AndroidRuntime(  993): Shutting down VM
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  993): threadid=1: thread exiting with uncaught exception (group=0xb35fce20)
+E/AndroidRuntime(  993): FATAL EXCEPTION: main
+E/AndroidRuntime(  993): java.lang.RuntimeException: Unable to create service com.gu.MainService: java.lang.IllegalArgumentException: requested provider network doesn't exisit
+E/AndroidRuntime(  993): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2373)
+E/AndroidRuntime(  993): 	at android.app.ActivityThread.access$1600(ActivityThread.java:130)
+E/AndroidRuntime(  993): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1277)
+E/AndroidRuntime(  993): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+E/AndroidRuntime(  993): 	at android.os.Looper.loop(Looper.java:137)
+E/AndroidRuntime(  993): 	at android.app.ActivityThread.main(ActivityThread.java:4745)
+E/AndroidRuntime(  993): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  993): 	at java.lang.reflect.Method.invoke(Method.java:511)
+E/AndroidRuntime(  993): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+E/AndroidRuntime(  993): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+E/AndroidRuntime(  993): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  993): Caused by: java.lang.IllegalArgumentException: requested provider network doesn't exisit
+E/AndroidRuntime(  993): 	at android.os.Parcel.readException(Parcel.java:1505)
+E/AndroidRuntime(  993): 	at android.os.Parcel.readException(Parcel.java:1455)
+E/AndroidRuntime(  993): 	at android.location.ILocationManager$Stub$Proxy.requestLocationUpdates(ILocationManager.java:646)
+E/AndroidRuntime(  993): 	at android.location.LocationManager._requestLocationUpdates(LocationManager.java:660)
+E/AndroidRuntime(  993): 	at android.location.LocationManager.requestLocationUpdates(LocationManager.java:482)
+E/AndroidRuntime(  993): 	at com.gu.MainService.onCreate(MainService.java:740)
+E/AndroidRuntime(  993): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2363)
+E/AndroidRuntime(  993): 	... 10 more
+W/dalvikvm(  993): DroidBox: { "FdAccess": { "path": "2f6465762f7572616e646f6d", "id": "1700242033" } }
+W/DroidBox(  993): DroidBox: { "FileRW": { "operation": "read", "data": "efbfbd28efbfbdefbfbd21efbfbd062e17efbfbd631cefbfbd2a6acdbfefbfbd33", "id": "1700242033" } }
+W/ActivityManager(  221):   Force finishing activity com.gu.activity/.SignInActivity
+W/WindowManager(  221): Failure taking screenshot for (246x410) to layer 21010
+I/Process (  993): Sending signal. PID: 993 SIG: 9
+I/ActivityManager(  221): Process com.gu.activity (pid 993) has died.
+I/WindowState(  221): WIN DEATH: Window{b408dcf8 com.gu.activity/com.gu.activity.SignInActivity paused=true}
+W/ActivityManager(  221): Scheduling restart of crashed service com.gu.activity/com.gu.MainService in 5186ms
+I/qtaguid (  221): Failed write_ctrl(s 0 10050) res=-1 errno=1
+W/NetworkManagementSocketTagger(  221): setKernelCountSet(10050, 0) failed with errno -1
+W/InputMethodManagerService(  221): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@b4074068 attribute=android.view.inputmethod.EditorInfo@b4074080
+I/AndroidRuntime(  975): VM exiting with result code 11.
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f3934332f636d646c696e65", "id": "707062291" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "636f6d2e616e64726f69642e6d757369636678000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000", "id": "707062291" } }
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f3935362f636d646c696e65", "id": "1746662019" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "636f6d2e73766f782e7069636f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000", "id": "1746662019" } }
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f3937372f636d646c696e65", "id": "1592688257" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "6c6f676361740044726f6964426f783a570064616c76696b766d3a570041637469766974794d616e616765723a49000000000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000", "id": "1592688257" } }
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f3937392f636d646c696e65", "id": "818602140" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "2f73797374656d2f62696e2f7368002d63007368202e2f7364636172642f65786563757465537472616365496e2e736800000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000", "id": "818602140" } }
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f3938312f636d646c696e65", "id": "1145051845" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "7368002e2f7364636172642f65786563757465537472616365496e2e736800786563757465537472616365496e2e736800000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000", "id": "1145051845" } }
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f3938322f636d646c696e65", "id": "881585753" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "737472616365002d70003539002d66002d747446002d6f002f7364636172642f74657374792e61706b5f7374726163655f6d6f6e6b65792e7478740000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000", "id": "881585753" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/BackupManagerService(  221): dataChanged but no participant pkg='com.android.providers.settings' uid=10011
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/MetadataRetrieverClient(   61): failed to extract an album art
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+I/ActivityManager(  221): Start proc com.gu.activity for service com.gu.activity/com.gu.MainService: pid=1013 uid=10050 gids={3003, 1015, 1006, 1028}
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/Trace   ( 1013): error opening trace file: No such file or directory (2)
+W/DroidBox( 1013): DroidBox: { "DexClassLoader": { "path": "/data/app/com.gu.activity-1.apk" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f313031332f636d646c696e65", "id": "1408410746" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "636f6d2e67752e616374697669747900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000", "id": "1408410746" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/System.err( 1013): java.security.NoSuchProviderException: SUN
+W/System.err( 1013): 	at java.security.SecureRandom.getInstance(SecureRandom.java:189)
+W/System.err( 1013): 	at com.gu.util.Common.<clinit>(Common.java:234)
+W/System.err( 1013): 	at com.gu.MainService.onCreate(MainService.java:387)
+W/System.err( 1013): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2363)
+W/System.err( 1013): 	at android.app.ActivityThread.access$1600(ActivityThread.java:130)
+W/System.err( 1013): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1277)
+W/System.err( 1013): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err( 1013): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err( 1013): 	at android.app.ActivityThread.main(ActivityThread.java:4745)
+W/System.err( 1013): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err( 1013): 	at java.lang.reflect.Method.invoke(Method.java:511)
+W/System.err( 1013): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+W/System.err( 1013): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+W/System.err( 1013): 	at dalvik.system.NativeStart.main(Native Method)
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "221579405" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "efbfbdefbfbd", "id": "221579405" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1337125999" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0005", "id": "1337125999" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1730544997" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73", "id": "1730544997" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1930663553" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "72", "id": "1930663553" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "209609134" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0016", "id": "209609134" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "314704627" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "636f6d2e67752e546b63416e64726f69645374617465", "id": "314704627" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1321079134" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000000000001", "id": "1321079134" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "648272561" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "02", "id": "648272561" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "699116791" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0016", "id": "699116791" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1666845027" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "1666845027" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1654411607" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0017", "id": "1654411607" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1489335798" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "616d6269656e745265636f7264696e67436f6d6d616e64", "id": "1489335798" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "228834809" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "228834809" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "93857590" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000e", "id": "93857590" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1723619410" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "617564696f5265636f7264696e67", "id": "1723619410" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1498113900" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4a", "id": "1498113900" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2112691963" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0014", "id": "2112691963" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "429044639" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "637269746963616c426174746572794c6576656c", "id": "429044639" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1990515316" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4a", "id": "1990515316" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1217114032" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0011", "id": "1217114032" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1988160687" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "637269746963616c467265655370616365", "id": "1988160687" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2142438595" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4a", "id": "2142438595" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1628821614" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000e", "id": "1628821614" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1263942046" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6461696c79446174614c696d6974", "id": "1263942046" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "634720380" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4a", "id": "634720380" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1408634384" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000e", "id": "1408634384" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "440630663" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6461696c79446174615573616765", "id": "440630663" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1328704910" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "1328704910" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "659510616" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0006", "id": "659510616" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2122734681" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6b696c6c6564", "id": "2122734681" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "65175142" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "65175142" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1349557082" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0011", "id": "1349557082" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1391401228" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6c6f636174696f6e5265636f7264696e67", "id": "1391401228" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "385680572" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "385680572" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1333322916" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000a", "id": "1333322916" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1271437144" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6d6f62696c6544617461", "id": "1271437144" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2018397795" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "2018397795" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "910603910" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0009", "id": "910603910" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1713374340" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6f6e43686172676572", "id": "1713374340" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "869185905" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4a", "id": "869185905" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1769569352" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0012", "id": "1769569352" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1423244032" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "7265636f7264696e67537461727454696d65", "id": "1423244032" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1187350243" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "1187350243" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1124483055" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000c", "id": "1124483055" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "947036306" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "7361766550617373776f7264", "id": "947036306" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1658859159" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4a", "id": "1658859159" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "907283660" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0011", "id": "907283660" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1878568765" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73746f705265636f7264696e6754696d65", "id": "1878568765" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1970593212" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "1970593212" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "589614058" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0009", "id": "589614058" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1420342659" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73757370656e646564", "id": "1420342659" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "176640194" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4a", "id": "176640194" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "806906192" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000e", "id": "806906192" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1910870964" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "746f74616c446174615573616765", "id": "1910870964" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "2095587918" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "2095587918" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1854743977" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000e", "id": "1854743977" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "650940232" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "766964656f5265636f7264696e67", "id": "650940232" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "181574818" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "5a", "id": "181574818" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "129733206" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0017", "id": "129733206" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "579757617" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "77616974466f72416d6269656e745265636f7264696e67", "id": "579757617" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1623750900" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c", "id": "1623750900" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1537576642" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0008", "id": "1537576642" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "605061731" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "636f6e6669674964", "id": "605061731" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "698625272" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "74", "id": "698625272" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1844790882" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0012", "id": "1844790882" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1501280556" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c6a6176612f6c616e672f537472696e673b", "id": "1501280556" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "145941296" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c", "id": "145941296" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "590211622" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000c", "id": "590211622" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "175765693" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "636f6e666967537472696e67", "id": "175765693" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1253748986" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "71", "id": "1253748986" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1852617209" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "007e0001", "id": "1852617209" } }
+D/PackageManager(  221): generateServicesMap(android.accounts.AccountAuthenticator): 2 services unchanged
+D/PackageManager(  221): generateServicesMap(android.content.SyncAdapter): 4 services unchanged
+I/InputReader(  221): Reconfiguring input devices.  changes=0x00000010
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "207629086" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c", "id": "207629086" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1519515063" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0004", "id": "1519515063" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1036504438" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "64617465", "id": "1036504438" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "426695280" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "71", "id": "426695280" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "676505868" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "007e0001", "id": "676505868" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1931203649" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c", "id": "1931203649" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1478806306" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0010", "id": "1478806306" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1107444797" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "64617974696d655265636f7264696e67", "id": "1107444797" } }
+I/AccountTypeManager(  655): Loaded meta-data for 1 account types, 0 accounts in 65ms(wall) 0ms(cpu)
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1647992209" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "74", "id": "1647992209" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1251980048" } }
+W/dalvikvm(  858): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e616e64726f69642e67616c6c65727933642f7368617265645f70726566732f636f6d2e616e64726f69642e67616c6c65727933645f707265666572656e6365732e786d6c", "id": "315571091" } }
+W/DroidBox(  858): DroidBox: { "FileRW": { "operation": "write", "data": "3c3f786d6c2076657273696f6e3d27312e302720656e636f64696e673d277574662d3827207374616e64616c6f6e653d2779657327203f3e0a3c6d61703e0a3c696e74206e616d653d227061636b616765732d76657273696f6e222076616c75653d2237", "id": "315571091" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0013", "id": "1251980048" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1715713232" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c6a6176612f7574696c2f486173685365743b", "id": "1715713232" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "494852030" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c", "id": "494852030" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "772383344" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0007", "id": "772383344" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1169357025" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "757365724d6170", "id": "1169357025" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "634000042" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "74", "id": "634000042" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "264555037" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0013", "id": "264555037" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1195833819" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c6a6176612f7574696c2f486173684d61703b", "id": "1195833819" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "999205716" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "999205716" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1070953039" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "1070953039" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "923891344" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "923891344" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "674438946" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "674438946" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1161690843" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000000000000000a", "id": "1161690843" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1543757044" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000006400000", "id": "1543757044" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "968737137" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000006400000", "id": "968737137" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1977897390" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000000000000", "id": "1977897390" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "165568234" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "165568234" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "56632316" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "56632316" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1603900890" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "1603900890" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "127485317" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "127485317" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1491820751" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000000000000", "id": "1491820751" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1345555524" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "1345555524" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "215344342" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000000000000", "id": "215344342" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1647944613" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "1647944613" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "116294989" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000000000000", "id": "116294989" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1675237085" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "1675237085" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "473703088" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00", "id": "473703088" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "127945880" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "127945880" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1389554547" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "1389554547" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1858727947" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "1858727947" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "198713085" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73", "id": "198713085" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1846544380" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "72", "id": "1846544380" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1668680274" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0011", "id": "1668680274" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1292332280" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6a6176612e7574696c2e48617368536574", "id": "1292332280" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1664643279" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "efbfbd44efbfbdefbfbdefbfbdefbfbdefbfbd34", "id": "1664643279" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "583528027" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "03", "id": "583528027" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1132296865" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000", "id": "1132296865" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "991181607" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "991181607" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1665417516" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "1665417516" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1654514273" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "77", "id": "1654514273" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "959512928" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0c", "id": "959512928" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1503082905" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000000023f40000000000000", "id": "1503082905" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "276877780" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "276877780" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1108022398" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73", "id": "1108022398" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "200543563" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "72", "id": "200543563" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1311133099" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0011", "id": "1311133099" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "936507089" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6a6176612e7574696c2e486173684d6170", "id": "936507089" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "255181763" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0507efbfbdefbfbdefbfbd1660efbfbd", "id": "255181763" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "830219134" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "03", "id": "830219134" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "195277025" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0001", "id": "195277025" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "494602376" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "46", "id": "494602376" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1235198260" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000a", "id": "1235198260" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1394276183" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6c6f6164466163746f72", "id": "1394276183" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "340029473" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "340029473" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1262411540" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "1262411540" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "765846775" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "3f400000", "id": "765846775" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1734299380" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "77", "id": "1734299380" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "279444097" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "08", "id": "279444097" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1124755783" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000200000000", "id": "1124755783" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f73746174652e73", "id": "1362831386" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "1362831386" } }
+W/System.err( 1013): java.lang.IllegalArgumentException: Unknown pattern character 'Y'
+W/System.err( 1013): 	at java.text.SimpleDateFormat.validateFormat(SimpleDateFormat.java:268)
+W/System.err( 1013): 	at java.text.SimpleDateFormat.validatePattern(SimpleDateFormat.java:323)
+W/System.err( 1013): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:369)
+W/System.err( 1013): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:253)
+W/System.err( 1013): 	at com.gu.util.Common.formatTime(Common.java:2152)
+W/System.err( 1013): 	at com.gu.util.Common.currentTime(Common.java:2040)
+W/System.err( 1013): 	at com.gu.TkcAndroidState.setInstance(TkcAndroidState.java:76)
+W/System.err( 1013): 	at com.gu.util.Common.<clinit>(Common.java:252)
+W/System.err( 1013): 	at com.gu.MainService.onCreate(MainService.java:387)
+W/System.err( 1013): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2363)
+W/System.err( 1013): 	at android.app.ActivityThread.access$1600(ActivityThread.java:130)
+W/System.err( 1013): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1277)
+W/System.err( 1013): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+W/System.err( 1013): 	at android.os.Looper.loop(Looper.java:137)
+W/System.err( 1013): 	at android.app.ActivityThread.main(ActivityThread.java:4745)
+W/System.err( 1013): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err( 1013): 	at java.lang.reflect.Method.invoke(Method.java:511)
+W/System.err( 1013): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+W/System.err( 1013): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+W/System.err( 1013): 	at dalvik.system.NativeStart.main(Native Method)
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1363705003" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "efbfbdefbfbd", "id": "1363705003" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1289146559" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0005", "id": "1289146559" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "2014026831" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73", "id": "2014026831" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "24828478" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "72", "id": "24828478" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "2018724710" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0015", "id": "2018724710" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1297221977" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "636f6d2e67752e55736572436f6e74726f6c6c6572", "id": "1297221977" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "948793786" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000000000001", "id": "948793786" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "740316618" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "02", "id": "740316618" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "173601449" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0002", "id": "173601449" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "526701363" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c", "id": "526701363" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "466538473" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0008", "id": "466538473" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1044786927" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "757365724c697374", "id": "1044786927" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "694238518" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "74", "id": "694238518" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1595464966" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0010", "id": "1595464966" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "672435047" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c6a6176612f7574696c2f4c6973743b", "id": "672435047" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1871367435" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c", "id": "1871367435" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1177250848" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0007", "id": "1177250848" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "788500282" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "757365724d6170", "id": "788500282" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1758217961" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "74", "id": "1758217961" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "924524469" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0013", "id": "924524469" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "247725295" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "4c6a6176612f7574696c2f486173684d61703b", "id": "247725295" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1878953011" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "1878953011" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "13233934" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "13233934" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1014126135" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73", "id": "1014126135" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "872333973" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "72", "id": "872333973" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "857435159" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0013", "id": "857435159" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "61696107" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6a6176612e7574696c2e41727261794c697374", "id": "61696107" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1128444751" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78efbfbdefbfbd1defbfbdefbfbd61efbfbd", "id": "1128444751" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "43516958" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "03", "id": "43516958" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "2121236502" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0001", "id": "2121236502" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "835646361" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "49", "id": "835646361" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1184205479" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0004", "id": "1184205479" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "225305712" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73697a65", "id": "225305712" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1945677525" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "1945677525" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1305206001" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "1305206001" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1735844582" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00000000", "id": "1735844582" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "679237814" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "77", "id": "679237814" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1547430828" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "04", "id": "1547430828" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "7520925" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "00000000", "id": "7520925" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "645960907" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "645960907" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "239270180" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "73", "id": "239270180" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1296162952" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "72", "id": "1296162952" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1651154749" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0011", "id": "1651154749" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "561918454" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6a6176612e7574696c2e486173684d6170", "id": "561918454" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1100304932" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0507efbfbdefbfbdefbfbd1660efbfbd", "id": "1100304932" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "988267783" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "03", "id": "988267783" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "666602340" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0001", "id": "666602340" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "2074290384" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "46", "id": "2074290384" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1129359583" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "000a", "id": "1129359583" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "658105044" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "6c6f6164466163746f72", "id": "658105044" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1206048269" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "1206048269" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1959358516" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "70", "id": "1959358516" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1990001679" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "3f400000", "id": "1990001679" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1105912172" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "77", "id": "1105912172" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1176170752" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "08", "id": "1176170752" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1646444514" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0000000200000000", "id": "1646444514" } }
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f646174612f646174612f636f6d2e67752e61637469766974792f6170705f646174612f75736572732e73", "id": "1935250308" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "78", "id": "1935250308" } }
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/dalvikvm( 1013): DroidBox: { "FdAccess": { "path": "2f6465762f7572616e646f6d", "id": "2046019463" } }
+W/DroidBox( 1013): DroidBox: { "FileRW": { "operation": "read", "data": "0eefbfbdefbfbdc897efbfbdefbfbdefbfbd40efbfbd37efbfbdefbfbde78abdefbfbd56efbfbd35", "id": "2046019463" } }
+I/dalvikvm-heap( 1013): Grow heap (frag case) to 8.758MB for 131088-byte allocation
+E/WVMExtractor(   61): Failed to open libwvm.so
+D/AndroidRuntime( 1013): Shutting down VM
+W/dalvikvm( 1013): threadid=1: thread exiting with uncaught exception (group=0xb35fce20)
+E/AndroidRuntime( 1013): FATAL EXCEPTION: main
+E/AndroidRuntime( 1013): java.lang.RuntimeException: Unable to create service com.gu.MainService: java.lang.IllegalArgumentException: requested provider network doesn't exisit
+E/AndroidRuntime( 1013): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2373)
+E/AndroidRuntime( 1013): 	at android.app.ActivityThread.access$1600(ActivityThread.java:130)
+E/AndroidRuntime( 1013): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1277)
+E/AndroidRuntime( 1013): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+E/AndroidRuntime( 1013): 	at android.os.Looper.loop(Looper.java:137)
+E/AndroidRuntime( 1013): 	at android.app.ActivityThread.main(ActivityThread.java:4745)
+E/AndroidRuntime( 1013): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1013): 	at java.lang.reflect.Method.invoke(Method.java:511)
+E/AndroidRuntime( 1013): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+E/AndroidRuntime( 1013): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+E/AndroidRuntime( 1013): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1013): Caused by: java.lang.IllegalArgumentException: requested provider network doesn't exisit
+E/AndroidRuntime( 1013): 	at android.os.Parcel.readException(Parcel.java:1505)
+E/AndroidRuntime( 1013): 	at android.os.Parcel.readException(Parcel.java:1455)
+E/AndroidRuntime( 1013): 	at android.location.ILocationManager$Stub$Proxy.requestLocationUpdates(ILocationManager.java:646)
+E/AndroidRuntime( 1013): 	at android.location.LocationManager._requestLocationUpdates(LocationManager.java:660)
+E/AndroidRuntime( 1013): 	at android.location.LocationManager.requestLocationUpdates(LocationManager.java:482)
+E/AndroidRuntime( 1013): 	at com.gu.MainService.onCreate(MainService.java:740)
+E/AndroidRuntime( 1013): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2363)
+E/AndroidRuntime( 1013): 	... 10 more
+I/Process ( 1013): Sending signal. PID: 1013 SIG: 9
+I/ActivityManager(  221): Process com.gu.activity (pid 1013) has died.
+W/ActivityManager(  221): Service crashed 2 times, stopping: ServiceRecord{b429da68 com.gu.activity/com.gu.MainService}
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+W/BackupManagerService(  221): dataChanged but no participant pkg='com.android.providers.settings' uid=10011
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/MetadataRetrieverClient(   61): failed to extract an album art
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/MetadataRetrieverClient(   61): failed to extract an album art
+E/WVMExtractor(   61): Failed to open libwvm.so
+E/MetadataRetrieverClient(   61): failed to extract an album art
+I/ActivityManager(  221): No longer want com.android.contacts (pid 655): hidden #16
+W/BackupManagerService(  221): dataChanged but no participant pkg='com.android.providers.settings' uid=1001
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f3232312f6e65742f78745f717461677569642f69666163655f737461745f616c6c", "id": "534029800" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "6574683020312030203020302030203330333230353920343135322034383231373520323935320a6c6f20312030203020302030203335333620343920333533362034390a00000000000000000000000000000000000000000000000000000000000000", "id": "534029800" } }
+W/dalvikvm(  221): DroidBox: { "FdAccess": { "path": "2f70726f632f3232312f6e65742f78745f717461677569642f69666163655f737461745f616c6c", "id": "1753975403" } }
+W/DroidBox(  221): DroidBox: { "FileRW": { "operation": "read", "data": "34390a362034390a34390a362034390a390a390a390a390a390a34390a362034390a3533362034390a362034390a333533362034390a390a390a390a390a390a362034390a00000000000000000000000000000000000000000000000000000000000000", "id": "1753975403" } }
+W/ThrottleService(  221): unable to find stats for iface rmnet0
+E/ThrottleService(  221): Error reading data file

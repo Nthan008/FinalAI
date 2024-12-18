@@ -1,0 +1,2961 @@
+{
+    "accessedfiles": {
+        "1014126135": "/data/data/com.gu.activity/app_data/users.s",
+        "1014231977": "/data/data/com.gu.activity/app_data/state.s",
+        "1036504438": "/data/data/com.gu.activity/app_data/state.s",
+        "1044786927": "/data/data/com.gu.activity/app_data/users.s",
+        "106726329": "/data/data/com.gu.activity/app_data/users.s",
+        "1070953039": "/data/data/com.gu.activity/app_data/state.s",
+        "1085072359": "/data/data/com.gu.activity/app_data/state.s",
+        "1096931434": "/data/data/com.gu.activity/app_data/state.s",
+        "1099621012": "/data/data/com.gu.activity/app_data/users.s",
+        "1100304932": "/data/data/com.gu.activity/app_data/users.s",
+        "1102767390": "/data/data/com.gu.activity/app_data/users.s",
+        "1105912172": "/data/data/com.gu.activity/app_data/users.s",
+        "1107444797": "/data/data/com.gu.activity/app_data/state.s",
+        "1108022398": "/data/data/com.gu.activity/app_data/state.s",
+        "111277855": "/data/data/com.gu.activity/app_data/state.s",
+        "1118235262": "/data/data/com.gu.activity/app_data/users.s",
+        "1121662746": "/data/data/com.gu.activity/app_data/users.s",
+        "1124483055": "/data/data/com.gu.activity/app_data/state.s",
+        "1124755783": "/data/data/com.gu.activity/app_data/state.s",
+        "1128142621": "/data/data/com.gu.activity/app_data/state.s",
+        "1128444751": "/data/data/com.gu.activity/app_data/users.s",
+        "1129359583": "/data/data/com.gu.activity/app_data/users.s",
+        "1132296865": "/data/data/com.gu.activity/app_data/state.s",
+        "1140226515": "/data/data/com.gu.activity/app_data/users.s",
+        "1142457867": "/data/data/com.gu.activity/app_data/users.s",
+        "1145051845": "/proc/981/cmdline",
+        "1161690843": "/data/data/com.gu.activity/app_data/state.s",
+        "1161693420": "/data/data/com.gu.activity/app_data/state.s",
+        "116294989": "/data/data/com.gu.activity/app_data/state.s",
+        "1169357025": "/data/data/com.gu.activity/app_data/state.s",
+        "1176170752": "/data/data/com.gu.activity/app_data/users.s",
+        "1176830594": "/dev/input/event0",
+        "1177250848": "/data/data/com.gu.activity/app_data/users.s",
+        "1184205479": "/data/data/com.gu.activity/app_data/users.s",
+        "1187350243": "/data/data/com.gu.activity/app_data/state.s",
+        "1195833819": "/data/data/com.gu.activity/app_data/state.s",
+        "1197348177": "/data/data/com.gu.activity/app_data/state.s",
+        "1201668282": "/data/data/com.gu.activity/app_data/state.s",
+        "1206048269": "/data/data/com.gu.activity/app_data/users.s",
+        "1217114032": "/data/data/com.gu.activity/app_data/state.s",
+        "1217170969": "/data/data/com.gu.activity/app_data/state.s",
+        "1223187226": "/data/data/com.gu.activity/app_data/users.s",
+        "1224113563": "/data/data/com.gu.activity/app_data/state.s",
+        "1235198260": "/data/data/com.gu.activity/app_data/state.s",
+        "1248714052": "/data/data/com.gu.activity/app_data/state.s",
+        "1251980048": "/data/data/com.gu.activity/app_data/state.s",
+        "1252557317": "/data/data/com.gu.activity/app_data/users.s",
+        "1253748986": "/data/data/com.gu.activity/app_data/state.s",
+        "1262411540": "/data/data/com.gu.activity/app_data/state.s",
+        "1263942046": "/data/data/com.gu.activity/app_data/state.s",
+        "1267333675": "/data/data/com.gu.activity/app_data/state.s",
+        "1271437144": "/data/data/com.gu.activity/app_data/state.s",
+        "1274851038": "/data/data/com.gu.activity/app_data/state.s",
+        "127485317": "/data/data/com.gu.activity/app_data/state.s",
+        "1278133466": "/data/data/com.gu.activity/app_data/state.s",
+        "127945880": "/data/data/com.gu.activity/app_data/state.s",
+        "1289146559": "/data/data/com.gu.activity/app_data/users.s",
+        "1292332280": "/data/data/com.gu.activity/app_data/state.s",
+        "1296162952": "/data/data/com.gu.activity/app_data/users.s",
+        "1297221977": "/data/data/com.gu.activity/app_data/users.s",
+        "129733206": "/data/data/com.gu.activity/app_data/state.s",
+        "1300686055": "/data/data/com.gu.activity/app_data/state.s",
+        "1305206001": "/data/data/com.gu.activity/app_data/users.s",
+        "1306935544": "/data/data/com.gu.activity/app_data/state.s",
+        "1311133099": "/data/data/com.gu.activity/app_data/state.s",
+        "1321079134": "/data/data/com.gu.activity/app_data/state.s",
+        "13233934": "/data/data/com.gu.activity/app_data/users.s",
+        "1328704910": "/data/data/com.gu.activity/app_data/state.s",
+        "1329392579": "/data/data/com.gu.activity/app_data/users.s",
+        "1333322916": "/data/data/com.gu.activity/app_data/state.s",
+        "1337125999": "/data/data/com.gu.activity/app_data/state.s",
+        "1342243087": "/data/data/com.gu.activity/app_data/state.s",
+        "1344491229": "/data/data/com.gu.activity/app_data/state.s",
+        "1345555524": "/data/data/com.gu.activity/app_data/state.s",
+        "1349557082": "/data/data/com.gu.activity/app_data/state.s",
+        "1352657850": "/data/data/com.gu.activity/app_data/users.s",
+        "1353529815": "/data/data/com.gu.activity/app_data/state.s",
+        "1354904395": "/data/data/com.gu.activity/app_data/users.s",
+        "1362831386": "/data/data/com.gu.activity/app_data/state.s",
+        "1363705003": "/data/data/com.gu.activity/app_data/users.s",
+        "1376528773": "/data/data/com.gu.activity/app_data/state.s",
+        "1378873541": "/data/data/com.gu.activity/app_data/state.s",
+        "1380928787": "/data/data/com.gu.activity/app_data/state.s",
+        "1389554547": "/data/data/com.gu.activity/app_data/state.s",
+        "1391401228": "/data/data/com.gu.activity/app_data/state.s",
+        "1394276183": "/data/data/com.gu.activity/app_data/state.s",
+        "1408410746": "/proc/1013/cmdline",
+        "1408634384": "/data/data/com.gu.activity/app_data/state.s",
+        "1415484462": "/data/data/com.gu.activity/app_data/state.s",
+        "1420342659": "/data/data/com.gu.activity/app_data/state.s",
+        "1423244032": "/data/data/com.gu.activity/app_data/state.s",
+        "1428414549": "/data/data/com.gu.activity/app_data/state.s",
+        "144725980": "/data/data/com.gu.activity/app_data/state.s",
+        "1447301323": "/data/data/com.gu.activity/app_data/users.s",
+        "145941296": "/data/data/com.gu.activity/app_data/state.s",
+        "1467549162": "/data/data/com.gu.activity/app_data/state.s",
+        "1478806306": "/data/data/com.gu.activity/app_data/state.s",
+        "1482166511": "/data/data/com.gu.activity/app_data/users.s",
+        "1486033210": "/data/data/com.gu.activity/app_data/users.s",
+        "1489335798": "/data/data/com.gu.activity/app_data/state.s",
+        "1491820751": "/data/data/com.gu.activity/app_data/state.s",
+        "1498113900": "/data/data/com.gu.activity/app_data/state.s",
+        "1501280556": "/data/data/com.gu.activity/app_data/state.s",
+        "1503082905": "/data/data/com.gu.activity/app_data/state.s",
+        "1503116409": "/data/data/com.gu.activity/app_data/users.s",
+        "1507164471": "/data/data/com.gu.activity/app_data/users.s",
+        "1510659270": "/data/data/com.gu.activity/app_data/state.s",
+        "1519515063": "/data/data/com.gu.activity/app_data/state.s",
+        "1537576642": "/data/data/com.gu.activity/app_data/state.s",
+        "1543757044": "/data/data/com.gu.activity/app_data/state.s",
+        "1547013994": "/data/data/com.gu.activity/app_data/state.s",
+        "1547430828": "/data/data/com.gu.activity/app_data/users.s",
+        "1552753981": "/data/data/com.gu.activity/app_data/users.s",
+        "1577790765": "/data/data/com.gu.activity/app_data/users.s",
+        "1581311444": "/data/data/com.gu.activity/app_data/state.s",
+        "1589408314": "/data/data/com.gu.activity/app_data/state.s",
+        "1592688257": "/proc/977/cmdline",
+        "1595464966": "/data/data/com.gu.activity/app_data/users.s",
+        "1597940067": "/data/data/com.gu.activity/app_data/state.s",
+        "1603900890": "/data/data/com.gu.activity/app_data/state.s",
+        "1606976579": "/data/data/com.gu.activity/app_data/state.s",
+        "1623750900": "/data/data/com.gu.activity/app_data/state.s",
+        "1628821614": "/data/data/com.gu.activity/app_data/state.s",
+        "1636848509": "/data/data/com.gu.activity/app_data/state.s",
+        "1643052303": "/data/data/com.gu.activity/app_data/users.s",
+        "1646444514": "/data/data/com.gu.activity/app_data/users.s",
+        "1647944613": "/data/data/com.gu.activity/app_data/state.s",
+        "1647992209": "/data/data/com.gu.activity/app_data/state.s",
+        "1651154749": "/data/data/com.gu.activity/app_data/users.s",
+        "1654411607": "/data/data/com.gu.activity/app_data/state.s",
+        "1654514273": "/data/data/com.gu.activity/app_data/state.s",
+        "165568234": "/data/data/com.gu.activity/app_data/state.s",
+        "1658859159": "/data/data/com.gu.activity/app_data/state.s",
+        "1664643279": "/data/data/com.gu.activity/app_data/state.s",
+        "1665417516": "/data/data/com.gu.activity/app_data/state.s",
+        "1666845027": "/data/data/com.gu.activity/app_data/state.s",
+        "1668680274": "/data/data/com.gu.activity/app_data/state.s",
+        "1675237085": "/data/data/com.gu.activity/app_data/state.s",
+        "1685887754": "/data/data/com.gu.activity/app_data/state.s",
+        "1700242033": "/dev/urandom",
+        "1713374340": "/data/data/com.gu.activity/app_data/state.s",
+        "1715713232": "/data/data/com.gu.activity/app_data/state.s",
+        "1715820665": "/data/data/com.gu.activity/app_data/state.s",
+        "1718199345": "/data/data/com.gu.activity/app_data/state.s",
+        "1718906888": "/data/data/com.gu.activity/app_data/users.s",
+        "1723619410": "/data/data/com.gu.activity/app_data/state.s",
+        "172597773": "/data/data/com.gu.activity/app_data/state.s",
+        "1726901638": "/data/data/com.gu.activity/app_data/state.s",
+        "1727057165": "/data/data/com.gu.activity/app_data/state.s",
+        "1730544997": "/data/data/com.gu.activity/app_data/state.s",
+        "1734299380": "/data/data/com.gu.activity/app_data/state.s",
+        "1734875127": "/data/data/com.gu.activity/app_data/users.s",
+        "1735844582": "/data/data/com.gu.activity/app_data/users.s",
+        "173601449": "/data/data/com.gu.activity/app_data/users.s",
+        "1746662019": "/proc/956/cmdline",
+        "1753975403": "/proc/221/net/xt_qtaguid/iface_stat_all",
+        "175765693": "/data/data/com.gu.activity/app_data/state.s",
+        "1758217961": "/data/data/com.gu.activity/app_data/users.s",
+        "1760332222": "/data/data/com.gu.activity/app_data/state.s",
+        "176640194": "/data/data/com.gu.activity/app_data/state.s",
+        "1766599317": "/data/data/com.gu.activity/app_data/state.s",
+        "1769569352": "/data/data/com.gu.activity/app_data/state.s",
+        "1774698905": "/data/data/com.gu.activity/app_data/users.s",
+        "1780910204": "/data/data/com.gu.activity/app_data/state.s",
+        "1785924284": "/data/data/com.gu.activity/app_data/state.s",
+        "1786381214": "/data/data/com.gu.activity/app_data/state.s",
+        "1788206418": "/data/data/com.gu.activity/app_data/users.s",
+        "1802316755": "/data/data/com.gu.activity/app_data/state.s",
+        "181574818": "/data/data/com.gu.activity/app_data/state.s",
+        "1822987402": "/data/data/com.gu.activity/app_data/state.s",
+        "1823887375": "/data/data/com.gu.activity/app_data/users.s",
+        "1824355609": "/data/data/com.gu.activity/app_data/state.s",
+        "1834905658": "/data/data/com.gu.activity/app_data/state.s",
+        "1844790882": "/data/data/com.gu.activity/app_data/state.s",
+        "1846544380": "/data/data/com.gu.activity/app_data/state.s",
+        "1852617209": "/data/data/com.gu.activity/app_data/state.s",
+        "1854743977": "/data/data/com.gu.activity/app_data/state.s",
+        "1858727947": "/data/data/com.gu.activity/app_data/state.s",
+        "1868094319": "/data/data/com.gu.activity/app_data/state.s",
+        "1871367435": "/data/data/com.gu.activity/app_data/users.s",
+        "1874346909": "/data/data/com.gu.activity/app_data/state.s",
+        "1878568765": "/data/data/com.gu.activity/app_data/state.s",
+        "1878953011": "/data/data/com.gu.activity/app_data/users.s",
+        "1881484562": "/data/data/com.gu.activity/app_data/users.s",
+        "1910870964": "/data/data/com.gu.activity/app_data/state.s",
+        "1914147920": "/data/data/com.gu.activity/app_data/state.s",
+        "1922392403": "/data/data/com.gu.activity/app_data/state.s",
+        "1930663553": "/data/data/com.gu.activity/app_data/state.s",
+        "1931203649": "/data/data/com.gu.activity/app_data/state.s",
+        "1935250308": "/data/data/com.gu.activity/app_data/users.s",
+        "1939143050": "/data/data/com.gu.activity/app_data/state.s",
+        "1945677525": "/data/data/com.gu.activity/app_data/users.s",
+        "195277025": "/data/data/com.gu.activity/app_data/state.s",
+        "1959358516": "/data/data/com.gu.activity/app_data/users.s",
+        "1967877358": "/data/data/com.gu.activity/app_data/state.s",
+        "1970593212": "/data/data/com.gu.activity/app_data/state.s",
+        "1977897390": "/data/data/com.gu.activity/app_data/state.s",
+        "1985923492": "/data/data/com.gu.activity/app_data/state.s",
+        "198713085": "/data/data/com.gu.activity/app_data/state.s",
+        "1988160687": "/data/data/com.gu.activity/app_data/state.s",
+        "1990001679": "/data/data/com.gu.activity/app_data/users.s",
+        "1990515316": "/data/data/com.gu.activity/app_data/state.s",
+        "1998200152": "/data/data/com.gu.activity/app_data/state.s",
+        "1999453303": "/data/data/com.gu.activity/app_data/state.s",
+        "2002117016": "/data/data/com.gu.activity/app_data/state.s",
+        "2005361699": "/data/data/com.gu.activity/app_data/state.s",
+        "200543563": "/data/data/com.gu.activity/app_data/state.s",
+        "2014026831": "/data/data/com.gu.activity/app_data/users.s",
+        "2017646967": "/data/data/com.gu.activity/app_data/users.s",
+        "2018397795": "/data/data/com.gu.activity/app_data/state.s",
+        "2018724710": "/data/data/com.gu.activity/app_data/users.s",
+        "2046019463": "/dev/urandom",
+        "2046628922": "/data/data/com.gu.activity/app_data/users.s",
+        "2051392794": "/data/data/com.gu.activity/app_data/state.s",
+        "2073809182": "/data/data/com.gu.activity/app_data/state.s",
+        "2074290384": "/data/data/com.gu.activity/app_data/users.s",
+        "207629086": "/data/data/com.gu.activity/app_data/state.s",
+        "2077692613": "/data/data/com.gu.activity/app_data/users.s",
+        "2086844705": "/data/data/com.gu.activity/app_data/state.s",
+        "2095587918": "/data/data/com.gu.activity/app_data/state.s",
+        "209609134": "/data/data/com.gu.activity/app_data/state.s",
+        "2100612908": "/data/data/com.gu.activity/app_data/state.s",
+        "2112691963": "/data/data/com.gu.activity/app_data/state.s",
+        "2113824788": "/data/data/com.gu.activity/app_data/users.s",
+        "2121236502": "/data/data/com.gu.activity/app_data/users.s",
+        "2122734681": "/data/data/com.gu.activity/app_data/state.s",
+        "2126136287": "/data/data/com.gu.activity/app_data/state.s",
+        "2139379210": "/data/data/com.gu.activity/app_data/state.s",
+        "2142438595": "/data/data/com.gu.activity/app_data/state.s",
+        "2145150881": "/data/data/com.gu.activity/app_data/state.s",
+        "215344342": "/data/data/com.gu.activity/app_data/state.s",
+        "221579405": "/data/data/com.gu.activity/app_data/state.s",
+        "225305712": "/data/data/com.gu.activity/app_data/users.s",
+        "228834809": "/data/data/com.gu.activity/app_data/state.s",
+        "23316153": "/data/data/com.gu.activity/app_data/state.s",
+        "239270180": "/data/data/com.gu.activity/app_data/users.s",
+        "244104826": "/data/data/com.gu.activity/app_data/users.s",
+        "245708363": "/data/data/com.gu.activity/app_data/state.s",
+        "247725295": "/data/data/com.gu.activity/app_data/users.s",
+        "24828478": "/data/data/com.gu.activity/app_data/users.s",
+        "255181763": "/data/data/com.gu.activity/app_data/state.s",
+        "264555037": "/data/data/com.gu.activity/app_data/state.s",
+        "269281962": "/data/data/com.gu.activity/app_data/users.s",
+        "276877780": "/data/data/com.gu.activity/app_data/state.s",
+        "279444097": "/data/data/com.gu.activity/app_data/state.s",
+        "293317698": "/data/data/com.gu.activity/app_data/state.s",
+        "305177996": "/data/data/com.gu.activity/app_data/state.s",
+        "314704627": "/data/data/com.gu.activity/app_data/state.s",
+        "315571091": "/data/data/com.android.gallery3d/shared_prefs/com.android.gallery3d_preferences.xml",
+        "335017486": "/data/data/com.gu.activity/app_data/state.s",
+        "335365797": "/data/data/com.gu.activity/app_data/state.s",
+        "340029473": "/data/data/com.gu.activity/app_data/state.s",
+        "353439323": "/data/data/com.gu.activity/app_data/state.s",
+        "35950097": "/data/data/com.gu.activity/app_data/state.s",
+        "362933110": "/data/data/com.gu.activity/app_data/state.s",
+        "368715032": "/data/data/com.gu.activity/app_data/state.s",
+        "373646290": "/data/data/com.gu.activity/app_data/users.s",
+        "376039444": "/data/data/com.gu.activity/app_data/state.s",
+        "385680572": "/data/data/com.gu.activity/app_data/state.s",
+        "399670131": "/data/data/com.gu.activity/app_data/users.s",
+        "414722453": "/data/data/com.gu.activity/app_data/users.s",
+        "426695280": "/data/data/com.gu.activity/app_data/state.s",
+        "429044639": "/data/data/com.gu.activity/app_data/state.s",
+        "43516958": "/data/data/com.gu.activity/app_data/users.s",
+        "440630663": "/data/data/com.gu.activity/app_data/state.s",
+        "449963557": "/data/data/com.gu.activity/app_data/state.s",
+        "466538473": "/data/data/com.gu.activity/app_data/users.s",
+        "473703088": "/data/data/com.gu.activity/app_data/state.s",
+        "4849327": "/data/data/com.android.musicfx/shared_prefs/musicfx.xml",
+        "494602376": "/data/data/com.gu.activity/app_data/state.s",
+        "494852030": "/data/data/com.gu.activity/app_data/state.s",
+        "505367474": "/data/data/com.gu.activity/app_data/state.s",
+        "505634488": "/data/data/com.gu.activity/app_data/state.s",
+        "510112041": "/data/data/com.gu.activity/app_data/state.s",
+        "515565323": "/data/data/com.gu.activity/app_data/state.s",
+        "526701363": "/data/data/com.gu.activity/app_data/users.s",
+        "529069515": "/data/data/com.gu.activity/app_data/users.s",
+        "534029800": "/proc/221/net/xt_qtaguid/iface_stat_all",
+        "540027018": "/data/data/com.gu.activity/app_data/state.s",
+        "554137842": "/data/data/com.gu.activity/app_data/users.s",
+        "561918454": "/data/data/com.gu.activity/app_data/users.s",
+        "56632316": "/data/data/com.gu.activity/app_data/state.s",
+        "566437321": "/data/data/com.gu.activity/app_data/state.s",
+        "57422234": "/data/data/com.gu.activity/app_data/users.s",
+        "579757617": "/data/data/com.gu.activity/app_data/state.s",
+        "583528027": "/data/data/com.gu.activity/app_data/state.s",
+        "589614058": "/data/data/com.gu.activity/app_data/state.s",
+        "590211622": "/data/data/com.gu.activity/app_data/state.s",
+        "605061731": "/data/data/com.gu.activity/app_data/state.s",
+        "609939739": "/data/data/com.gu.activity/app_data/state.s",
+        "612399517": "/data/data/com.gu.activity/app_data/state.s",
+        "61696107": "/data/data/com.gu.activity/app_data/users.s",
+        "626116611": "/data/data/com.gu.activity/app_data/state.s",
+        "634000042": "/data/data/com.gu.activity/app_data/state.s",
+        "634720380": "/data/data/com.gu.activity/app_data/state.s",
+        "645960907": "/data/data/com.gu.activity/app_data/users.s",
+        "648272561": "/data/data/com.gu.activity/app_data/state.s",
+        "650940232": "/data/data/com.gu.activity/app_data/state.s",
+        "65175142": "/data/data/com.gu.activity/app_data/state.s",
+        "658105044": "/data/data/com.gu.activity/app_data/users.s",
+        "658560840": "/data/data/com.gu.activity/app_data/state.s",
+        "659510616": "/data/data/com.gu.activity/app_data/state.s",
+        "662067619": "/data/data/com.gu.activity/app_data/state.s",
+        "666602340": "/data/data/com.gu.activity/app_data/users.s",
+        "672435047": "/data/data/com.gu.activity/app_data/users.s",
+        "673978189": "/data/data/com.gu.activity/app_data/users.s",
+        "674438946": "/data/data/com.gu.activity/app_data/state.s",
+        "67480067": "/data/data/com.gu.activity/app_data/state.s",
+        "676505868": "/data/data/com.gu.activity/app_data/state.s",
+        "679237814": "/data/data/com.gu.activity/app_data/users.s",
+        "694238518": "/data/data/com.gu.activity/app_data/users.s",
+        "698625272": "/data/data/com.gu.activity/app_data/state.s",
+        "699116791": "/data/data/com.gu.activity/app_data/state.s",
+        "704616492": "/data/data/com.gu.activity/app_data/state.s",
+        "707062291": "/proc/943/cmdline",
+        "714168118": "/data/data/com.gu.activity/app_data/state.s",
+        "717982061": "/data/data/com.gu.activity/app_data/state.s",
+        "725951662": "/data/data/com.gu.activity/app_data/users.s",
+        "736373949": "/data/data/com.gu.activity/app_data/users.s",
+        "740316618": "/data/data/com.gu.activity/app_data/users.s",
+        "7520925": "/data/data/com.gu.activity/app_data/users.s",
+        "758601556": "/data/data/com.gu.activity/app_data/state.s",
+        "765846775": "/data/data/com.gu.activity/app_data/state.s",
+        "770929881": "/data/data/com.gu.activity/app_data/users.s",
+        "772383344": "/data/data/com.gu.activity/app_data/state.s",
+        "78766110": "/data/data/com.gu.activity/app_data/state.s",
+        "788500282": "/data/data/com.gu.activity/app_data/users.s",
+        "790727993": "/data/data/com.gu.activity/app_data/users.s",
+        "792171798": "/data/data/com.gu.activity/app_data/state.s",
+        "794712274": "/data/data/com.gu.activity/app_data/state.s",
+        "799649658": "/data/data/com.gu.activity/app_data/state.s",
+        "806906192": "/data/data/com.gu.activity/app_data/state.s",
+        "818602140": "/proc/979/cmdline",
+        "822605897": "/data/data/com.gu.activity/app_data/users.s",
+        "830219134": "/data/data/com.gu.activity/app_data/state.s",
+        "835646361": "/data/data/com.gu.activity/app_data/users.s",
+        "837430755": "/data/data/com.gu.activity/app_data/state.s",
+        "857435159": "/data/data/com.gu.activity/app_data/users.s",
+        "858733111": "/data/data/com.gu.activity/app_data/state.s",
+        "86485097": "/data/data/com.gu.activity/app_data/state.s",
+        "869185905": "/data/data/com.gu.activity/app_data/state.s",
+        "872333973": "/data/data/com.gu.activity/app_data/users.s",
+        "881585753": "/proc/982/cmdline",
+        "886996755": "/data/data/com.gu.activity/app_data/state.s",
+        "889965627": "/data/data/com.gu.activity/app_data/state.s",
+        "896615754": "/data/data/com.gu.activity/app_data/state.s",
+        "907283660": "/data/data/com.gu.activity/app_data/state.s",
+        "910603910": "/data/data/com.gu.activity/app_data/state.s",
+        "923891344": "/data/data/com.gu.activity/app_data/state.s",
+        "924524469": "/data/data/com.gu.activity/app_data/users.s",
+        "927143006": "/data/data/com.gu.activity/app_data/users.s",
+        "934382248": "/data/data/com.gu.activity/app_data/state.s",
+        "936507089": "/data/data/com.gu.activity/app_data/state.s",
+        "93857590": "/data/data/com.gu.activity/app_data/state.s",
+        "947036306": "/data/data/com.gu.activity/app_data/state.s",
+        "948793786": "/data/data/com.gu.activity/app_data/users.s",
+        "959512928": "/data/data/com.gu.activity/app_data/state.s",
+        "968737137": "/data/data/com.gu.activity/app_data/state.s",
+        "974314351": "/data/data/com.gu.activity/app_data/state.s",
+        "980746891": "/data/data/com.gu.activity/app_data/users.s",
+        "988267783": "/data/data/com.gu.activity/app_data/users.s",
+        "990073867": "/data/data/com.gu.activity/app_data/state.s",
+        "991181607": "/data/data/com.gu.activity/app_data/state.s",
+        "996063136": "/data/data/com.gu.activity/app_data/state.s",
+        "999205716": "/data/data/com.gu.activity/app_data/state.s"
+    },
+    "apkName": "/apks/samples//testy.apk",
+    "closenet": {},
+    "cryptousage": {},
+    "dataleaks": {},
+    "dexclass": {
+        "0.00577998161315918": {
+            "path": "/data/app/com.gu.activity-1.apk",
+            "type": "dexload"
+        },
+        "4.641415119171143": {
+            "path": "/data/app/com.gu.activity-1.apk",
+            "type": "dexload"
+        }
+    },
+    "enfperm": [],
+    "fdaccess": {
+        "0.005203962326049805": {
+            "data": "efbfbd060000efbfbdefbfbd0c000500000000000000",
+            "id": "1176830594",
+            "operation": "write",
+            "path": "/dev/input/event0",
+            "type": "file write"
+        },
+        "0.0068089962005615234": {
+            "data": "3c3f786d6c2076657273696f6e3d27312e302720656e636f64696e673d277574662d3827207374616e64616c6f6e653d2779657327203f3e0a3c6d61703e0a3c737472696e67206e616d653d2264656661756c7470616e656c7061636b616765223e636f",
+            "id": "4849327",
+            "operation": "write",
+            "path": "/data/data/com.android.musicfx/shared_prefs/musicfx.xml",
+            "type": "file write"
+        },
+        "0.008475065231323242": {
+            "data": "efbfbdefbfbd",
+            "id": "368715032",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.008839130401611328": {
+            "data": "0005",
+            "id": "1922392403",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.009001970291137695": {
+            "data": "73",
+            "id": "658560840",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.009155035018920898": {
+            "data": "72",
+            "id": "1224113563",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.009415149688720703": {
+            "data": "0016636f6d2e67752e546b63416e64726f69645374617465",
+            "id": "1014231977",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.009627103805541992": {
+            "data": "0000000000000001",
+            "id": "1999453303",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.009840011596679688": {
+            "data": "02",
+            "id": "111277855",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.010030984878540039": {
+            "data": "0016",
+            "id": "2051392794",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.010183095932006836": {
+            "data": "5a",
+            "id": "172597773",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.010354042053222656": {
+            "data": "0017616d6269656e745265636f7264696e67436f6d6d616e64",
+            "id": "714168118",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.010504961013793945": {
+            "data": "5a",
+            "id": "799649658",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.010671138763427734": {
+            "data": "000e617564696f5265636f7264696e67",
+            "id": "1096931434",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01082611083984375": {
+            "data": "4a",
+            "id": "717982061",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01105499267578125": {
+            "data": "0014637269746963616c426174746572794c6576656c",
+            "id": "1985923492",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01120305061340332": {
+            "data": "4a",
+            "id": "2073809182",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.011358022689819336": {
+            "data": "0011637269746963616c467265655370616365",
+            "id": "540027018",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01149296760559082": {
+            "data": "4a",
+            "id": "2145150881",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01164102554321289": {
+            "data": "000e6461696c79446174614c696d6974",
+            "id": "35950097",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.011779069900512695": {
+            "data": "4a",
+            "id": "2126136287",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.011927127838134766": {
+            "data": "000e6461696c79446174615573616765",
+            "id": "1274851038",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01206207275390625": {
+            "data": "5a",
+            "id": "1197348177",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.012238025665283203": {
+            "data": "00066b696c6c6564",
+            "id": "515565323",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01238107681274414": {
+            "data": "5a",
+            "id": "293317698",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.012531042098999023": {
+            "data": "00116c6f636174696f6e5265636f7264696e67",
+            "id": "1780910204",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.012665033340454102": {
+            "data": "5a",
+            "id": "792171798",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01281595230102539": {
+            "data": "000a6d6f62696c6544617461",
+            "id": "1726901638",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.012951135635375977": {
+            "data": "5a",
+            "id": "1201668282",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.013209104537963867": {
+            "data": "00096f6e43686172676572",
+            "id": "1510659270",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.013360977172851562": {
+            "data": "4a",
+            "id": "1344491229",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.013514041900634766": {
+            "data": "00127265636f7264696e67537461727454696d65",
+            "id": "1597940067",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.013653993606567383": {
+            "data": "5a",
+            "id": "1467549162",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.013803958892822266": {
+            "data": "000c7361766550617373776f7264",
+            "id": "1161693420",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.013937950134277344": {
+            "data": "4a",
+            "id": "1217170969",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.014107942581176758": {
+            "data": "001173746f705265636f7264696e6754696d65",
+            "id": "305177996",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.014243125915527344": {
+            "data": "5a",
+            "id": "505634488",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01438593864440918": {
+            "data": "000973757370656e646564",
+            "id": "1868094319",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.014521121978759766": {
+            "data": "4a",
+            "id": "1822987402",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.014668941497802734": {
+            "data": "000e746f74616c446174615573616765",
+            "id": "1718199345",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.014881134033203125": {
+            "data": "5a",
+            "id": "2100612908",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.015028953552246094": {
+            "data": "000e766964656f5265636f7264696e67",
+            "id": "609939739",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01516413688659668": {
+            "data": "5a",
+            "id": "1967877358",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.015319108963012695": {
+            "data": "001777616974466f72416d6269656e745265636f7264696e67",
+            "id": "1914147920",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.015458106994628906": {
+            "data": "4c",
+            "id": "1267333675",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.015603065490722656": {
+            "data": "0008636f6e6669674964",
+            "id": "1306935544",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.016005992889404297": {
+            "data": "7400124c6a6176612f6c616e672f537472696e673b",
+            "id": "566437321",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.016236066818237305": {
+            "data": "4c",
+            "id": "1378873541",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.016458988189697266": {
+            "data": "000c636f6e666967537472696e67",
+            "id": "353439323",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.016782045364379883": {
+            "data": "71",
+            "id": "67480067",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.016926050186157227": {
+            "data": "007e0001",
+            "id": "505367474",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.017081022262573242": {
+            "data": "4c",
+            "id": "1547013994",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.017220020294189453": {
+            "data": "000464617465",
+            "id": "86485097",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01735401153564453": {
+            "data": "71",
+            "id": "896615754",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.017493009567260742": {
+            "data": "007e0001",
+            "id": "335017486",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01762700080871582": {
+            "data": "4c",
+            "id": "78766110",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.017779111862182617": {
+            "data": "001064617974696d655265636f7264696e67",
+            "id": "1128142621",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.017930030822753906": {
+            "data": "7400134c6a6176612f7574696c2f486173685365743b",
+            "id": "662067619",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.018064022064208984": {
+            "data": "4c",
+            "id": "335365797",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.018262147903442383": {
+            "data": "0007757365724d6170",
+            "id": "996063136",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.018440961837768555": {
+            "data": "7400134c6a6176612f7574696c2f486173684d61703b",
+            "id": "1715820665",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.018573999404907227": {
+            "data": "78",
+            "id": "245708363",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.018716096878051758": {
+            "data": "70",
+            "id": "1939143050",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.018850088119506836": {
+            "data": "00",
+            "id": "990073867",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.018984079360961914": {
+            "data": "00",
+            "id": "144725980",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01912403106689453": {
+            "data": "000000000000000a",
+            "id": "934382248",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.019266128540039062": {
+            "data": "0000000006400000",
+            "id": "1415484462",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.019427061080932617": {
+            "data": "0000000006400000",
+            "id": "2005361699",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01956915855407715": {
+            "data": "0000000000000000",
+            "id": "1581311444",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01970505714416504": {
+            "data": "00",
+            "id": "1342243087",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.01984405517578125": {
+            "data": "00",
+            "id": "1300686055",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.019979000091552734": {
+            "data": "00",
+            "id": "2139379210",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.020133018493652344": {
+            "data": "00",
+            "id": "612399517",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02027297019958496": {
+            "data": "0000000000000000",
+            "id": "376039444",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.020476102828979492": {
+            "data": "00",
+            "id": "1085072359",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.020617008209228516": {
+            "data": "0000000000000000",
+            "id": "1824355609",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.020751953125": {
+            "data": "00",
+            "id": "1589408314",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.020893096923828125": {
+            "data": "0000000000000000",
+            "id": "1380928787",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.021026134490966797": {
+            "data": "00",
+            "id": "23316153",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.021160125732421875": {
+            "data": "00",
+            "id": "1834905658",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.021294116973876953": {
+            "data": "70",
+            "id": "704616492",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.021450042724609375": {
+            "data": "70",
+            "id": "449963557",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.021587133407592773": {
+            "data": "70",
+            "id": "1685887754",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.021723031997680664": {
+            "data": "73",
+            "id": "794712274",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02185797691345215": {
+            "data": "72",
+            "id": "758601556",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.022014141082763672": {
+            "data": "00116a6176612e7574696c2e48617368536574",
+            "id": "1606976579",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.022288084030151367": {
+            "data": "efbfbd44efbfbdefbfbdefbfbdefbfbdefbfbd34",
+            "id": "626116611",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.022424936294555664": {
+            "data": "03",
+            "id": "1785924284",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02272510528564453": {
+            "data": "0000",
+            "id": "974314351",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.022921085357666016": {
+            "data": "78",
+            "id": "1760332222",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02305912971496582": {
+            "data": "70",
+            "id": "1248714052",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02319502830505371": {
+            "data": "77",
+            "id": "889965627",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02333211898803711": {
+            "data": "0c",
+            "id": "1786381214",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02348494529724121": {
+            "data": "000000023f40000000000000",
+            "id": "1428414549",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.023620128631591797": {
+            "data": "78",
+            "id": "837430755",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02378106117248535": {
+            "data": "73",
+            "id": "1376528773",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.023991107940673828": {
+            "data": "72",
+            "id": "362933110",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.024188995361328125": {
+            "data": "00116a6176612e7574696c2e486173684d6170",
+            "id": "1766599317",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.024383068084716797": {
+            "data": "0507efbfbdefbfbdefbfbd1660efbfbd",
+            "id": "1636848509",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.024847984313964844": {
+            "data": "03",
+            "id": "2086844705",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02519392967224121": {
+            "data": "0001",
+            "id": "1353529815",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02537393569946289": {
+            "data": "46",
+            "id": "1727057165",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.025519132614135742": {
+            "data": "000a6c6f6164466163746f72",
+            "id": "886996755",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.025660991668701172": {
+            "data": "78",
+            "id": "510112041",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.025804996490478516": {
+            "data": "70",
+            "id": "1278133466",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.025947093963623047": {
+            "data": "3f400000",
+            "id": "1802316755",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.026087045669555664": {
+            "data": "77",
+            "id": "1874346909",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.026374101638793945": {
+            "data": "08",
+            "id": "2002117016",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.026561975479125977": {
+            "data": "0000000200000000",
+            "id": "858733111",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02671504020690918": {
+            "data": "78",
+            "id": "1998200152",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file write"
+        },
+        "0.02685999870300293": {
+            "data": "efbfbdefbfbd",
+            "id": "736373949",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.026999950408935547": {
+            "data": "0005",
+            "id": "1718906888",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02715897560119629": {
+            "data": "73",
+            "id": "927143006",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.0272979736328125": {
+            "data": "72",
+            "id": "1643052303",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02745509147644043": {
+            "data": "0015636f6d2e67752e55736572436f6e74726f6c6c6572",
+            "id": "1552753981",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02760004997253418": {
+            "data": "0000000000000001",
+            "id": "1352657850",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.027744054794311523": {
+            "data": "02",
+            "id": "1447301323",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.027881145477294922": {
+            "data": "0002",
+            "id": "1788206418",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02802109718322754": {
+            "data": "4c",
+            "id": "1354904395",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02816605567932129": {
+            "data": "0008757365724c697374",
+            "id": "1503116409",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.028319120407104492": {
+            "data": "7400104c6a6176612f7574696c2f4c6973743b",
+            "id": "529069515",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02845597267150879": {
+            "data": "4c",
+            "id": "1102767390",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.028599977493286133": {
+            "data": "0007757365724d6170",
+            "id": "1118235262",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.028753995895385742": {
+            "data": "7400134c6a6176612f7574696c2f486173684d61703b",
+            "id": "1734875127",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.028988122940063477": {
+            "data": "78",
+            "id": "269281962",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.0291290283203125": {
+            "data": "70",
+            "id": "1823887375",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.029263019561767578": {
+            "data": "73",
+            "id": "373646290",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02939915657043457": {
+            "data": "72",
+            "id": "1507164471",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.029551029205322266": {
+            "data": "00136a6176612e7574696c2e41727261794c697374",
+            "id": "1329392579",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02974700927734375": {
+            "data": "78efbfbdefbfbd1defbfbdefbfbd61efbfbd",
+            "id": "673978189",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.02988910675048828": {
+            "data": "03",
+            "id": "1140226515",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03016495704650879": {
+            "data": "0001",
+            "id": "1121662746",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.030317068099975586": {
+            "data": "49",
+            "id": "1223187226",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03045797348022461": {
+            "data": "000473697a65",
+            "id": "1881484562",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.030596017837524414": {
+            "data": "78",
+            "id": "2113824788",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.0307309627532959": {
+            "data": "70",
+            "id": "980746891",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03086996078491211": {
+            "data": "00000000",
+            "id": "57422234",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.031005144119262695": {
+            "data": "77",
+            "id": "770929881",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.031260013580322266": {
+            "data": "04",
+            "id": "2046628922",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03140711784362793": {
+            "data": "00000000",
+            "id": "725951662",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03155994415283203": {
+            "data": "78",
+            "id": "1252557317",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03169703483581543": {
+            "data": "73",
+            "id": "1486033210",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03183412551879883": {
+            "data": "72",
+            "id": "1142457867",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03209495544433594": {
+            "data": "00116a6176612e7574696c2e486173684d6170",
+            "id": "554137842",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03225111961364746": {
+            "data": "0507efbfbdefbfbdefbfbd1660efbfbd",
+            "id": "414722453",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03249001502990723": {
+            "data": "03",
+            "id": "2077692613",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.0326390266418457": {
+            "data": "0001",
+            "id": "1577790765",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03277707099914551": {
+            "data": "46",
+            "id": "822605897",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03292202949523926": {
+            "data": "000a6c6f6164466163746f72",
+            "id": "2017646967",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03305816650390625": {
+            "data": "78",
+            "id": "790727993",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03319406509399414": {
+            "data": "70",
+            "id": "1482166511",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.033332109451293945": {
+            "data": "3f400000",
+            "id": "399670131",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.033471107482910156": {
+            "data": "77",
+            "id": "1099621012",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03361010551452637": {
+            "data": "08",
+            "id": "244104826",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.03375101089477539": {
+            "data": "0000000200000000",
+            "id": "106726329",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.033956050872802734": {
+            "data": "78",
+            "id": "1774698905",
+            "operation": "write",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file write"
+        },
+        "0.035082101821899414": {
+            "data": "efbfbd28efbfbdefbfbd21efbfbd062e17efbfbd631cefbfbd2a6acdbfefbfbd33",
+            "id": "1700242033",
+            "operation": "read",
+            "path": "/dev/urandom",
+            "type": "file read"
+        },
+        "0.03565096855163574": {
+            "data": "636f6d2e616e64726f69642e6d757369636678000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000",
+            "id": "707062291",
+            "operation": "read",
+            "path": "/proc/943/cmdline",
+            "type": "file read"
+        },
+        "0.0358431339263916": {
+            "data": "636f6d2e73766f782e7069636f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000",
+            "id": "1746662019",
+            "operation": "read",
+            "path": "/proc/956/cmdline",
+            "type": "file read"
+        },
+        "0.036039113998413086": {
+            "data": "6c6f676361740044726f6964426f783a570064616c76696b766d3a570041637469766974794d616e616765723a49000000000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000",
+            "id": "1592688257",
+            "operation": "read",
+            "path": "/proc/977/cmdline",
+            "type": "file read"
+        },
+        "0.03622698783874512": {
+            "data": "2f73797374656d2f62696e2f7368002d63007368202e2f7364636172642f65786563757465537472616365496e2e736800000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000",
+            "id": "818602140",
+            "operation": "read",
+            "path": "/proc/979/cmdline",
+            "type": "file read"
+        },
+        "0.03647303581237793": {
+            "data": "7368002e2f7364636172642f65786563757465537472616365496e2e736800786563757465537472616365496e2e736800000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000",
+            "id": "1145051845",
+            "operation": "read",
+            "path": "/proc/981/cmdline",
+            "type": "file read"
+        },
+        "0.03666806221008301": {
+            "data": "737472616365002d70003539002d66002d747446002d6f002f7364636172642f74657374792e61706b5f7374726163655f6d6f6e6b65792e7478740000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000",
+            "id": "881585753",
+            "operation": "read",
+            "path": "/proc/982/cmdline",
+            "type": "file read"
+        },
+        "4.778499126434326": {
+            "data": "636f6d2e67752e616374697669747900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000702f74657374792e61706b00000000000000000000000000",
+            "id": "1408410746",
+            "operation": "read",
+            "path": "/proc/1013/cmdline",
+            "type": "file read"
+        },
+        "5.059692144393921": {
+            "data": "efbfbdefbfbd",
+            "id": "221579405",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.0648839473724365": {
+            "data": "0005",
+            "id": "1337125999",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.07184100151062": {
+            "data": "73",
+            "id": "1730544997",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.09073805809021": {
+            "data": "72",
+            "id": "1930663553",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.108914136886597": {
+            "data": "0016",
+            "id": "209609134",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.117926120758057": {
+            "data": "636f6d2e67752e546b63416e64726f69645374617465",
+            "id": "314704627",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.1277830600738525": {
+            "data": "0000000000000001",
+            "id": "1321079134",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.152626037597656": {
+            "data": "02",
+            "id": "648272561",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.154787063598633": {
+            "data": "0016",
+            "id": "699116791",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.161740064620972": {
+            "data": "5a",
+            "id": "1666845027",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.1809611320495605": {
+            "data": "0017",
+            "id": "1654411607",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.198580980300903": {
+            "data": "616d6269656e745265636f7264696e67436f6d6d616e64",
+            "id": "1489335798",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.229525089263916": {
+            "data": "5a",
+            "id": "228834809",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.229880094528198": {
+            "data": "000e",
+            "id": "93857590",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.230211019515991": {
+            "data": "617564696f5265636f7264696e67",
+            "id": "1723619410",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.2388200759887695": {
+            "data": "4a",
+            "id": "1498113900",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.247290134429932": {
+            "data": "0014",
+            "id": "2112691963",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.264871120452881": {
+            "data": "637269746963616c426174746572794c6576656c",
+            "id": "429044639",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.273688077926636": {
+            "data": "4a",
+            "id": "1990515316",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.3116371631622314": {
+            "data": "0011",
+            "id": "1217114032",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.311821937561035": {
+            "data": "637269746963616c467265655370616365",
+            "id": "1988160687",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.311959981918335": {
+            "data": "4a",
+            "id": "2142438595",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.317352056503296": {
+            "data": "000e",
+            "id": "1628821614",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.333701133728027": {
+            "data": "6461696c79446174614c696d6974",
+            "id": "1263942046",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.34263801574707": {
+            "data": "4a",
+            "id": "634720380",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.359621047973633": {
+            "data": "000e",
+            "id": "1408634384",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.37726902961731": {
+            "data": "6461696c79446174615573616765",
+            "id": "440630663",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.393860101699829": {
+            "data": "5a",
+            "id": "1328704910",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.402358055114746": {
+            "data": "0006",
+            "id": "659510616",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.420765161514282": {
+            "data": "6b696c6c6564",
+            "id": "2122734681",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.438388109207153": {
+            "data": "5a",
+            "id": "65175142",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.447454929351807": {
+            "data": "0011",
+            "id": "1349557082",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.463932037353516": {
+            "data": "6c6f636174696f6e5265636f7264696e67",
+            "id": "1391401228",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.472412109375": {
+            "data": "5a",
+            "id": "385680572",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.490180969238281": {
+            "data": "000a",
+            "id": "1333322916",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.507656097412109": {
+            "data": "6d6f62696c6544617461",
+            "id": "1271437144",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.523961067199707": {
+            "data": "5a",
+            "id": "2018397795",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.556385040283203": {
+            "data": "0009",
+            "id": "910603910",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.566214084625244": {
+            "data": "6f6e43686172676572",
+            "id": "1713374340",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.582198143005371": {
+            "data": "4a",
+            "id": "869185905",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.589275121688843": {
+            "data": "0012",
+            "id": "1769569352",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.616366147994995": {
+            "data": "7265636f7264696e67537461727454696d65",
+            "id": "1423244032",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.631881952285767": {
+            "data": "5a",
+            "id": "1187350243",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.6324169635772705": {
+            "data": "000c",
+            "id": "1124483055",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.6393561363220215": {
+            "data": "7361766550617373776f7264",
+            "id": "947036306",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.700812101364136": {
+            "data": "4a",
+            "id": "1658859159",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.700965166091919": {
+            "data": "0011",
+            "id": "907283660",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.701131105422974": {
+            "data": "73746f705265636f7264696e6754696d65",
+            "id": "1878568765",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.701280117034912": {
+            "data": "5a",
+            "id": "1970593212",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.714337110519409": {
+            "data": "0009",
+            "id": "589614058",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.782501935958862": {
+            "data": "73757370656e646564",
+            "id": "1420342659",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.803663969039917": {
+            "data": "4a",
+            "id": "176640194",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.813091993331909": {
+            "data": "000e",
+            "id": "806906192",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.834121942520142": {
+            "data": "746f74616c446174615573616765",
+            "id": "1910870964",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.851104974746704": {
+            "data": "5a",
+            "id": "2095587918",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.869086027145386": {
+            "data": "000e",
+            "id": "1854743977",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.878652095794678": {
+            "data": "766964656f5265636f7264696e67",
+            "id": "650940232",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.89497709274292": {
+            "data": "5a",
+            "id": "181574818",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.920289993286133": {
+            "data": "0017",
+            "id": "129733206",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.920680046081543": {
+            "data": "77616974466f72416d6269656e745265636f7264696e67",
+            "id": "579757617",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.930773973464966": {
+            "data": "4c",
+            "id": "1623750900",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.952595949172974": {
+            "data": "0008",
+            "id": "1537576642",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.972016096115112": {
+            "data": "636f6e6669674964",
+            "id": "605061731",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.981598138809204": {
+            "data": "74",
+            "id": "698625272",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "5.998836994171143": {
+            "data": "0012",
+            "id": "1844790882",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.009474039077759": {
+            "data": "4c6a6176612f6c616e672f537472696e673b",
+            "id": "1501280556",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.018171072006226": {
+            "data": "4c",
+            "id": "145941296",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.026854038238525": {
+            "data": "000c",
+            "id": "590211622",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.047774076461792": {
+            "data": "636f6e666967537472696e67",
+            "id": "175765693",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.0530829429626465": {
+            "data": "71",
+            "id": "1253748986",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.063086986541748": {
+            "data": "007e0001",
+            "id": "1852617209",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.169114112854004": {
+            "data": "4c",
+            "id": "207629086",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.190506935119629": {
+            "data": "0004",
+            "id": "1519515063",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.1910200119018555": {
+            "data": "64617465",
+            "id": "1036504438",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.200684070587158": {
+            "data": "71",
+            "id": "426695280",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.217602968215942": {
+            "data": "007e0001",
+            "id": "676505868",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.2506890296936035": {
+            "data": "4c",
+            "id": "1931203649",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.251007080078125": {
+            "data": "0010",
+            "id": "1478806306",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.262575149536133": {
+            "data": "64617974696d655265636f7264696e67",
+            "id": "1107444797",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.298440933227539": {
+            "data": "74",
+            "id": "1647992209",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.311830043792725": {
+            "data": "3c3f786d6c2076657273696f6e3d27312e302720656e636f64696e673d277574662d3827207374616e64616c6f6e653d2779657327203f3e0a3c6d61703e0a3c696e74206e616d653d227061636b616765732d76657273696f6e222076616c75653d2237",
+            "id": "315571091",
+            "operation": "write",
+            "path": "/data/data/com.android.gallery3d/shared_prefs/com.android.gallery3d_preferences.xml",
+            "type": "file write"
+        },
+        "6.317703008651733": {
+            "data": "0013",
+            "id": "1251980048",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.3436501026153564": {
+            "data": "4c6a6176612f7574696c2f486173685365743b",
+            "id": "1715713232",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.352321147918701": {
+            "data": "4c",
+            "id": "494852030",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.36126708984375": {
+            "data": "0007",
+            "id": "772383344",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.369810104370117": {
+            "data": "757365724d6170",
+            "id": "1169357025",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.3779051303863525": {
+            "data": "74",
+            "id": "634000042",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.396590948104858": {
+            "data": "0013",
+            "id": "264555037",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.422080993652344": {
+            "data": "4c6a6176612f7574696c2f486173684d61703b",
+            "id": "1195833819",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.42759108543396": {
+            "data": "78",
+            "id": "999205716",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.448305130004883": {
+            "data": "70",
+            "id": "1070953039",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.458280086517334": {
+            "data": "00",
+            "id": "923891344",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.475444078445435": {
+            "data": "00",
+            "id": "674438946",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.484992027282715": {
+            "data": "000000000000000a",
+            "id": "1161690843",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.49448299407959": {
+            "data": "0000000006400000",
+            "id": "1543757044",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.503731966018677": {
+            "data": "0000000006400000",
+            "id": "968737137",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.521221160888672": {
+            "data": "0000000000000000",
+            "id": "1977897390",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.539556980133057": {
+            "data": "00",
+            "id": "165568234",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.557494163513184": {
+            "data": "00",
+            "id": "56632316",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.573898077011108": {
+            "data": "00",
+            "id": "1603900890",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.582333087921143": {
+            "data": "00",
+            "id": "127485317",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.5992560386657715": {
+            "data": "0000000000000000",
+            "id": "1491820751",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.611390113830566": {
+            "data": "00",
+            "id": "1345555524",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.61754298210144": {
+            "data": "0000000000000000",
+            "id": "215344342",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.629179954528809": {
+            "data": "00",
+            "id": "1647944613",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.647459983825684": {
+            "data": "0000000000000000",
+            "id": "116294989",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.664391994476318": {
+            "data": "00",
+            "id": "1675237085",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.673285961151123": {
+            "data": "00",
+            "id": "473703088",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.690245151519775": {
+            "data": "70",
+            "id": "127945880",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.708081007003784": {
+            "data": "70",
+            "id": "1389554547",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.722548007965088": {
+            "data": "70",
+            "id": "1858727947",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.727430105209351": {
+            "data": "73",
+            "id": "198713085",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.734149932861328": {
+            "data": "72",
+            "id": "1846544380",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.7499330043792725": {
+            "data": "0011",
+            "id": "1668680274",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.758527994155884": {
+            "data": "6a6176612e7574696c2e48617368536574",
+            "id": "1292332280",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.776868104934692": {
+            "data": "efbfbd44efbfbdefbfbdefbfbdefbfbdefbfbd34",
+            "id": "1664643279",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.786774158477783": {
+            "data": "03",
+            "id": "583528027",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.813601016998291": {
+            "data": "0000",
+            "id": "1132296865",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.813766002655029": {
+            "data": "78",
+            "id": "991181607",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.8244781494140625": {
+            "data": "70",
+            "id": "1665417516",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.8431010246276855": {
+            "data": "77",
+            "id": "1654514273",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.8681480884552": {
+            "data": "0c",
+            "id": "959512928",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.8852410316467285": {
+            "data": "000000023f40000000000000",
+            "id": "1503082905",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.8940441608428955": {
+            "data": "78",
+            "id": "276877780",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.9420740604400635": {
+            "data": "73",
+            "id": "1108022398",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.942414999008179": {
+            "data": "72",
+            "id": "200543563",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.951846122741699": {
+            "data": "0011",
+            "id": "1311133099",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.972198009490967": {
+            "data": "6a6176612e7574696c2e486173684d6170",
+            "id": "936507089",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.992213010787964": {
+            "data": "0507efbfbdefbfbdefbfbd1660efbfbd",
+            "id": "255181763",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "6.997188091278076": {
+            "data": "03",
+            "id": "830219134",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.016801118850708": {
+            "data": "0001",
+            "id": "195277025",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.048418045043945": {
+            "data": "46",
+            "id": "494602376",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.068819999694824": {
+            "data": "000a",
+            "id": "1235198260",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.090777158737183": {
+            "data": "6c6f6164466163746f72",
+            "id": "1394276183",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.091109991073608": {
+            "data": "78",
+            "id": "340029473",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.102993965148926": {
+            "data": "70",
+            "id": "1262411540",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.119702100753784": {
+            "data": "3f400000",
+            "id": "765846775",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.120042085647583": {
+            "data": "77",
+            "id": "1734299380",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.124850034713745": {
+            "data": "08",
+            "id": "279444097",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.135792016983032": {
+            "data": "0000000200000000",
+            "id": "1124755783",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.141737937927246": {
+            "data": "78",
+            "id": "1362831386",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/state.s",
+            "type": "file read"
+        },
+        "7.252200126647949": {
+            "data": "efbfbdefbfbd",
+            "id": "1363705003",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.270142078399658": {
+            "data": "0005",
+            "id": "1289146559",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.280725955963135": {
+            "data": "73",
+            "id": "2014026831",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.297865152359009": {
+            "data": "72",
+            "id": "24828478",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.314069032669067": {
+            "data": "0015",
+            "id": "2018724710",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.322818040847778": {
+            "data": "636f6d2e67752e55736572436f6e74726f6c6c6572",
+            "id": "1297221977",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.342834949493408": {
+            "data": "0000000000000001",
+            "id": "948793786",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.38933801651001": {
+            "data": "02",
+            "id": "740316618",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.3919360637664795": {
+            "data": "0002",
+            "id": "173601449",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.392073154449463": {
+            "data": "4c",
+            "id": "526701363",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.392293930053711": {
+            "data": "0008",
+            "id": "466538473",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.392609119415283": {
+            "data": "757365724c697374",
+            "id": "1044786927",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.406795024871826": {
+            "data": "74",
+            "id": "694238518",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.407282114028931": {
+            "data": "0010",
+            "id": "1595464966",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.421589136123657": {
+            "data": "4c6a6176612f7574696c2f4c6973743b",
+            "id": "672435047",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.421731948852539": {
+            "data": "4c",
+            "id": "1871367435",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.429882049560547": {
+            "data": "0007",
+            "id": "1177250848",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.4393041133880615": {
+            "data": "757365724d6170",
+            "id": "788500282",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.456093072891235": {
+            "data": "74",
+            "id": "1758217961",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.465249061584473": {
+            "data": "0013",
+            "id": "924524469",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.479423999786377": {
+            "data": "4c6a6176612f7574696c2f486173684d61703b",
+            "id": "247725295",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.498417139053345": {
+            "data": "78",
+            "id": "1878953011",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.507735013961792": {
+            "data": "70",
+            "id": "13233934",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.526623010635376": {
+            "data": "73",
+            "id": "1014126135",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.5454511642456055": {
+            "data": "72",
+            "id": "872333973",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.581232070922852": {
+            "data": "0013",
+            "id": "857435159",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.581418037414551": {
+            "data": "6a6176612e7574696c2e41727261794c697374",
+            "id": "61696107",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.581578969955444": {
+            "data": "78efbfbdefbfbd1defbfbdefbfbd61efbfbd",
+            "id": "1128444751",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.581730127334595": {
+            "data": "03",
+            "id": "43516958",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.592713117599487": {
+            "data": "0001",
+            "id": "2121236502",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.602504014968872": {
+            "data": "49",
+            "id": "835646361",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.628880977630615": {
+            "data": "0004",
+            "id": "1184205479",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.630388975143433": {
+            "data": "73697a65",
+            "id": "225305712",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.6347949504852295": {
+            "data": "78",
+            "id": "1945677525",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.660499095916748": {
+            "data": "70",
+            "id": "1305206001",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.660786151885986": {
+            "data": "00000000",
+            "id": "1735844582",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.6662750244140625": {
+            "data": "77",
+            "id": "679237814",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.680253982543945": {
+            "data": "04",
+            "id": "1547430828",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.680418014526367": {
+            "data": "00000000",
+            "id": "7520925",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.714956045150757": {
+            "data": "78",
+            "id": "645960907",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.723330974578857": {
+            "data": "73",
+            "id": "239270180",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.741346120834351": {
+            "data": "72",
+            "id": "1296162952",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.759052991867065": {
+            "data": "0011",
+            "id": "1651154749",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.778368949890137": {
+            "data": "6a6176612e7574696c2e486173684d6170",
+            "id": "561918454",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.792305946350098": {
+            "data": "0507efbfbdefbfbdefbfbd1660efbfbd",
+            "id": "1100304932",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.8091981410980225": {
+            "data": "03",
+            "id": "988267783",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.81801700592041": {
+            "data": "0001",
+            "id": "666602340",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.858144998550415": {
+            "data": "46",
+            "id": "2074290384",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.8690550327301025": {
+            "data": "000a",
+            "id": "1129359583",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.908653020858765": {
+            "data": "6c6f6164466163746f72",
+            "id": "658105044",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.925554037094116": {
+            "data": "78",
+            "id": "1206048269",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.944545030593872": {
+            "data": "70",
+            "id": "1959358516",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "7.998301029205322": {
+            "data": "3f400000",
+            "id": "1990001679",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "8.01932406425476": {
+            "data": "77",
+            "id": "1105912172",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "8.04694414138794": {
+            "data": "08",
+            "id": "1176170752",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "8.066391944885254": {
+            "data": "0000000200000000",
+            "id": "1646444514",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "8.090152025222778": {
+            "data": "78",
+            "id": "1935250308",
+            "operation": "read",
+            "path": "/data/data/com.gu.activity/app_data/users.s",
+            "type": "file read"
+        },
+        "8.344263076782227": {
+            "data": "0eefbfbdefbfbdc897efbfbdefbfbdefbfbd40efbfbd37efbfbdefbfbde78abdefbfbd56efbfbd35",
+            "id": "2046019463",
+            "operation": "read",
+            "path": "/dev/urandom",
+            "type": "file read"
+        },
+        "42.72007203102112": {
+            "data": "6574683020312030203020302030203330333230353920343135322034383231373520323935320a6c6f20312030203020302030203335333620343920333533362034390a00000000000000000000000000000000000000000000000000000000000000",
+            "id": "534029800",
+            "operation": "read",
+            "path": "/proc/221/net/xt_qtaguid/iface_stat_all",
+            "type": "file read"
+        },
+        "42.73721694946289": {
+            "data": "34390a362034390a34390a362034390a390a390a390a390a390a34390a362034390a3533362034390a362034390a333533362034390a390a390a390a390a390a362034390a00000000000000000000000000000000000000000000000000000000000000",
+            "id": "1753975403",
+            "operation": "read",
+            "path": "/proc/221/net/xt_qtaguid/iface_stat_all",
+            "type": "file read"
+        }
+    },
+    "hashes": [
+        "d34d318528e55a33c8c19e2222521b84",
+        "b276a840310e7576c57fad69c37de7e1ae6e2abe",
+        "d55e492d5fce87898e065572a5553d1ac1389cd12bf3d28cabc1218cb29780af"
+    ],
+    "opennet": {},
+    "phonecalls": {},
+    "recvnet": {},
+    "recvsaction": {
+        "com.gu.BootCompletedReceiver": "android.intent.action.USER_PRESENT",
+        "com.gu.NetworkChangeReceiver": "android.net.wifi.WIFI_STATE_CHANGED"
+    },
+    "sendnet": {},
+    "sendsms": {},
+    "servicestart": {
+        "0.007107973098754883": {
+            "name": "com.gu.MainService",
+            "type": "service"
+        }
+    }
+}

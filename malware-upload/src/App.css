@@ -1,0 +1,125 @@
+/* General Reset */
+body, h1, p, button {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.app-container {
+  text-align: center;
+  color: #333;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 10px 50px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  flex: 1; /* Pushes content to the center */
+}
+
+.navbar nav {
+  display: flex;
+  justify-content: center; /* Center-align the nav links */
+  flex: 2; /* Makes the nav take more space */
+}
+
+.navbar nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+}
+
+.navbar nav a.active {
+  color: #0099ff;
+  font-weight: bold;
+}
+
+.profile {
+  flex: 1; /* Pushes the profile image to the right */
+  display: flex;
+  justify-content: flex-end;
+}
+
+.profile-img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+/* Hero Section */
+.hero {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  color: #0099ff;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+
+
+input[type="file"] {
+  display: none;
+}
+
+.browse-btn {
+  display: inline-block;
+  background-color: #0099ff;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.browse-btn:hover {
+  background-color: #007acc;
+}
+
+.file-upload span {
+  font-size: 1rem;
+}
+
+/* Capture Button Image */
+.capture-btn {
+  width: 120px; /* Adjust size as needed */
+  height: auto;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.capture-btn:hover {
+  opacity: 0.8; /* Slight transparency on hover */
+}
+
+.status-message {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+/* Status Message */
+.status-message {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: #333;
+}
